@@ -7,4 +7,4 @@ and Language Navigation"</p>
 
 <p>More details can be found in the thesis.</p>
   
-[Language Pre-Training and Auxiliary Tasks for Vision and Language Navigation](https://rc.library.uta.edu/uta-ir/handle/10106/30243 "documentation")
+[Language Pre-Training and Auxiliary Tasks for Vision and Language Navigation](https://rc.library.uta.edu/uta-ir/handle/10106/30243 "Thesis documentation")
